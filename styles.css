@@ -1,0 +1,17 @@
+object, svg {
+	width: 240px;
+	height: 240px;
+}
+.svg-circle {
+	fill:#333;
+}
+svg:hover .svg-circle {
+	fill:#666;
+}
+.svg-text {
+	fill:#fff;
+}
+.png-badge {
+	width: 240px;
+	height: 240px;
+}
