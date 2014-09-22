@@ -1,6 +1,6 @@
 SVG Demo
 ========
-This is a demo of various methods of implementing SVG images in an html document.  It shows how to include an svg image in an html document while maintaining IE 8, older mobile browser, and CSS support.
+This is a demo of various methods of including SVG images in an html document.  It shows how to include an svg image in an html document while maintaining IE 8, older mobile browser, and CSS support.
 
 File Descriptions
 -----------------
