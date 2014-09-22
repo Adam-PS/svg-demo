@@ -7,6 +7,8 @@ Sources:
 
 SVG - 
 
+http://alistapart.com/article/responsive-web-design
+
 http://www.w3.org/Graphics/SVG/
 
 http://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html#object
